@@ -4,7 +4,7 @@
         <h1>🤖 <span class="blue">Servo</span></h1>
         <h3>Build robots, get parts & upgrades!</h3>
         <div class="button-container">
-            <a href=""><button class="rsvp-button"><p>RSVP now!</p></button></a>
+            <a href="https://rsvp.hackclub.community/servo"><button class="rsvp-button"><p>RSVP now!</p></button></a>
             <a href="https://hackclub.enterprise.slack.com/archives/C0ARBM1GSRX"><button class="slack-button"><p>Join #servo</p></button></a>
         </div>
     </div>

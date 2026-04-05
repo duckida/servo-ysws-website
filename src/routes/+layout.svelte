@@ -8,4 +8,6 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
+export const prerender = true;
+
 {@render children()}
